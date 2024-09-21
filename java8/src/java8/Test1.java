@@ -30,6 +30,11 @@ public class Test1 {
 	{
 		System.out.println("m6");
 	}
+	public void m7()
+	{
+		System.out.println("m7");
+	}
+
 
 
 
